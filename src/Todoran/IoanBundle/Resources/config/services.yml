@@ -1,0 +1,7 @@
+parameters:
+#    todoran_ioan.example.class: Todoran\IoanBundle\Example
+
+services:
+#    todoran_ioan.example:
+#        class: %todoran_ioan.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

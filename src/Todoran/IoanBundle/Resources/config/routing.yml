@@ -1,0 +1,3 @@
+todoran_ioan_homepage:
+    pattern:  /pag_mea/{name}
+    defaults: { _controller: TodoranIoanBundle:Default:index }
